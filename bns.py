@@ -5,7 +5,6 @@ from scipy.stats import norm
 inf = float('inf')
 
 
-
 def bns(features, classes):
 
     def _true_positive_rate(feature):
